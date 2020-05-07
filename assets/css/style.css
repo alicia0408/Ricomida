@@ -1,0 +1,15 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 37pt;
+    margin-left: 15%;
+    /* medida variable*/
+}
+
+#navbarNav {
+    margin-right: 15%;
+}
